@@ -2,10 +2,10 @@
 
 <h2>👨‍💻 Current Projects:</h2>
 
-- <b>NLP AI Chatbot Model</b>
+- <b> NLP AI Chatbot Model</b>
   - Applying my understanding of Natural Language Models to create a AI model through Python coding
   <b>
-<h2>Certificaitons- Obtained and In progress</h2>
+<h2>🏆 Certificaitons- Obtained and In progress</h2>
 
 - CompTIA A+ (https://www.comptia.org/certifications/a)
 - Microsoft Azure Fundamentals (AZ-900) (https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/?practice-assessment-type=certification)
