@@ -11,9 +11,9 @@
   
 <h2>🏆 Certificaitons- Obtained and In progress</h2>
 
-- [CompTIA A+](https://www.comptia.org/certifications/a)
-- [Microsoft Azure Fundamentals (AZ-900)](https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/?practice-assessment-type=certification)
-- [Microsoft Azure AI Fundamentals (AI-900)](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals/?practice-assessment-type=certification)
+- [CompTIA A+](https://docs.google.com/drawings/d/1jei6soZMTjxgs7-zVLihYyiT2-pQMrm5H1AH3Q3QZdw/edit) 
+- [Microsoft Azure Fundamentals (AZ-900)](https://docs.google.com/drawings/d/1Jo20-d1jaNitrwBj8fATFeQf-q65kenBUaYCZhJSm4s/edit)
+- [Microsoft Azure AI Fundamentals (AI-900)](https://docs.google.com/drawings/d/1Vi6G6ost2Vybt657OAhlsZXEwAVQYOzBJjwkRLG7t48/edit)
 - [Linux LPI In Progress](https://www.lpi.org/our-certifications/linux-essentials-overview/)
 - [CompTIA Network+ In Progress](https://www.comptia.org/certifications/network)
 - [CompTIA Security+ In Progress](https://www.comptia.org/certifications/security)
