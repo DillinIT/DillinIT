@@ -19,3 +19,4 @@
 <img align="left" alt="DillinAlexander | Phone" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/t-mobile.svg" />
 
 [linkedin]: https://www.linkedin.com/in/dillin-alexander-17550b31a/
+[phone]: 508-333-7873
