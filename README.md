@@ -77,7 +77,7 @@ As we continue to become more dependent on AI to assist our daily lives, I want 
 
 **Resources I am using to learn**
 ChatGPT 4.0/3.5
-Telegram (BotFather) to build and devlop NLP Chatbot AI
+
 
 </div>
 
