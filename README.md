@@ -3,16 +3,20 @@
 <h2>👨‍💻 Current Projects:</h2>
 
 - <b> NLP AI Chatbot Model</b>
-  - Applying my understanding of Natural Language Models to create a AI model through Python coding
+  - Teaching myself how to build a Chatbot AI on my local machine using tools such as ChatGPT 4.0 and 3.5, Insomnia software, Windows Powershell, and PyCharm Community Edition 24.1.3
   <b>
+
+<h2> Previous Smaller Projects</h2>
+-<b> Building Virtual Machines on Oracle VM VirtualBox to run Ubuntu 16.04, Ubuntu 22.04, Kali</b>
+  
 <h2>🏆 Certificaitons- Obtained and In progress</h2>
 
-- CompTIA A+ (https://www.comptia.org/certifications/a)
-- Microsoft Azure Fundamentals (AZ-900) (https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/?practice-assessment-type=certification)
-- Microsoft Azure AI Fundamentals (AI-900) (https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals/?practice-assessment-type=certification)
-- Linux LPI- In Progress (https://www.lpi.org/our-certifications/linux-essentials-overview/)
-- CompTIA Network+ In Progress (https://www.comptia.org/certifications/network)
-- CompTIA Security+ In Progress (https://www.comptia.org/certifications/security)
+- [CompTIA A+](https://www.comptia.org/certifications/a)
+- [Microsoft Azure Fundamentals (AZ-900)](https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/?practice-assessment-type=certification)
+- [Microsoft Azure AI Fundamentals (AI-900)](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals/?practice-assessment-type=certification)
+- [Linux LPI In Progress](https://www.lpi.org/our-certifications/linux-essentials-overview/)
+- [CompTIA Network+ In Progress](https://www.comptia.org/certifications/network)
+- [CompTIA Security+ In Progress](https://www.comptia.org/certifications/security)
 
 <h2> 🤳 Connect with me:</h2>
 <img align="left" alt="DillinAlexander | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
