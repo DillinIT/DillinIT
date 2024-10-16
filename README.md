@@ -1,5 +1,7 @@
 <div align="center">
-  <img height="150" src="https://drive.google.com/file/d/1NE-yM8mJ4dj_lXngMLY0fa7vlyskXNfb/view?usp=sharing"  />
+ <img height="400" src="https://drive.google.com/uc?export=view&id=1NE-yM8mJ4dj_lXngMLY0fa7vlyskXNfb" alt="Your Image Description" />
+  <div align="center">
+ <b> My Beautiful Wife and I </b> 
 </div>
 
 ###
@@ -52,6 +54,32 @@
 
 ###
 
-<h3 align="left">🔥   My Certifications :<br>CompTIA A+<br>Microsoft Azure Fundamentals<br>Microsoft Azure AI Fundamentals</h3>
+### <h3 align="left">🏆 Certifications - Obtained and In Progress
+<div align="left">
+
+[CompTIA A+](https://docs.google.com/drawings/d/1jei6soZMTjxgs7-zVLihYyiT2-pQMrm5H1AH3Q3QZdw/edit)  
+[Microsoft Azure Fundamentals (AZ-900)](https://docs.google.com/drawings/d/1Jo20-d1jaNitrwBj8fATFeQf-q65kenBUaYCZhJSm4s/edit)  
+[Microsoft Azure AI Fundamentals (AI-900)](https://docs.google.com/drawings/d/1Vi6G6ost2Vybt657OAhlsZXEwAVQYOzBJjwkRLG7t48/edit)  
+[Linux LPI In Progress](https://www.lpi.org/our-certifications/linux-essentials-overview/)  
+[CompTIA Network+ In Progress](https://www.comptia.org/certifications/network)  
+[CompTIA Security+ In Progress](https://www.comptia.org/certifications/security)
+  
+</div>
+
+### <h3 align="left"> Projects I Am Actively Learning and Working On
+<div align="left">
+
+**Learning how to create my own AI chatbot to implement on this GitHub page for user interaction**  
+- This is teaching me the basics of coding in Python and HTML while creating this GitHub account.
+
+**Reason/Why?**  
+As we continue to become more dependent on AI to assist our daily lives, I want to not only understand how it works but also learn how to create an AI model and deploy it. While studying for my AI-900 exam, I discovered an interest in the field and want to pursue this path.
+
+**Resources I am using to learn**
+ChatGPT 4.0/3.5
+Telegram (BotFather) to build and devlop NLP Chatbot AI
+
+</div>
 
 ###
+
