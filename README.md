@@ -19,8 +19,7 @@
 - [CompTIA Security+ In Progress](https://www.comptia.org/certifications/security)
 
 <h2> 🤳 Connect with me:</h2>
-<img align="left" alt="DillinAlexander | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-<img align="left" alt="DillinAlexander | Phone" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/t-mobile.svg" />
+<b>
+[Email](mailto:dillin.alexander@aol.com)
 
-[linkedin]: https://www.linkedin.com/in/dillin-alexander-17550b31a/
-[phone]: 508-333-7873
+</b>
